@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "1.0.0",
-      "URL": "https://mirrors.sustech.edu.cn/git/12133042/uPyCraft/-/raw/master/mpy-fw-esp32-20170817.bin"
+      "URL": "https://raw.githubusercontent.com/byronin/rnn-bins/main/firmware.bin"
     }
   ]
 }
